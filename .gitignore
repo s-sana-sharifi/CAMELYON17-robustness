@@ -12,7 +12,7 @@ env/
 .ipynb_checkpoints/
 
 # Data
-data/
+/data/
 *.zip
 *.tar
 *.tar.gz
@@ -39,4 +39,5 @@ Thumbs.db
 # Secrets
 .env
 *.key
-*.pem*.png
+*.pem
+*.png
