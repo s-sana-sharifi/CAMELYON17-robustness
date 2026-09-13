@@ -39,4 +39,4 @@ Thumbs.db
 # Secrets
 .env
 *.key
-*.pem
+*.pem*.png
